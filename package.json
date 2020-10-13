@@ -1,0 +1,12 @@
+{
+	"name": "amn-websites",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {},
+	"dependencies": {
+		"next": "9.5.5",
+		"react": "16.13.1",
+		"react-dom": "16.13.1",
+		"next-transpile-modules": "4.1.0"
+	}
+}
