@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import styles from '../styles/Home.module.css';
+import Bla from '../../components/bla';
 
 export default function Home() {
 	return (
@@ -11,6 +12,7 @@ export default function Home() {
 
 			<main className={styles.main}>
 				<h1 className={styles.title}>Welcome to amn.NL</h1>
+				<Bla />
 
 				<p className={styles.description}>
 					Get started by editing{' '}
